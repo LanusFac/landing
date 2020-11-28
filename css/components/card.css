@@ -1,0 +1,15 @@
+.how-it-works > .cards > .card {
+  border: 1px solid rgba(196, 196, 196, 0.1);
+  box-shadow: 0 0 15px rgba(170, 170, 170, 0.3);
+  border-radius: 5px;
+  padding: 30px;
+  margin: 20px;
+  width: 150px;
+  height: auto;
+  text-align: center;
+}
+
+.how-it-works > .cards > .card > img {
+  width: 70%;
+  height: auto;
+}
